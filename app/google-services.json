@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175462567499",
+    "project_id": "storagesample-dab13",
+    "storage_bucket": "storagesample-dab13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175462567499:android:1f4db3681afd229e0887ce",
+        "android_client_info": {
+          "package_name": "com.example.storagesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175462567499-0supuralb37us06fitj5h2djruk0phi4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWYnxUNV0lQ92zRzGWJ_iM4LK31Xbcrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175462567499-0supuralb37us06fitj5h2djruk0phi4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
